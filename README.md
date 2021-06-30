@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/akshaykudtarka3" target="blank"><img src="https://img.shields.io/twitter/follow/akshaykudtarka3?logo=twitter&style=for-the-badge" alt="akshaykudtarka3" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/akshay-kudtarkar-212bb7207/" target="blank"><img src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="Akshay Kudtarkar" /></a> </p>
-
 - 🔭 I’m currently working on [CODELAB](http://codelab.epizy.com/?i=1)
 
 - 🌱 I’m currently learning **Python**
