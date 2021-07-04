@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [http://codelab.epizy.com/?i=1](http://codelab.epizy.com/?i=1)
+- 👨‍💻 All of my projects are available at [CODELAB](http://codelab.epizy.com/?i=1)
 
 - 💬 Ask me about **Html , CSS and Android App Development**
 
