@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay1552&label=Profile%20views&color=0e75b6&style=flat" alt="akshay1552" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay1552" alt="akshay1552" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/akshaykudtarka3" target="blank"><img src="https://img.shields.io/twitter/follow/akshaykudtarka3?logo=twitter&style=for-the-badge" alt="akshaykudtarka3" /></a> </p>
 
 - 🔭 I’m currently working on [CODELAB](http://codelab.epizy.com/?i=1)
