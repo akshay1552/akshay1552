@@ -4,13 +4,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Kudtarkar</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-- 🔭 I’m currently working on [CODELAB](http://codelab.epizy.com/) ( Free Lancing )  
-  
-
 - 🌱 I’m currently learning Python   
-  
-
-- 👨‍💻 All of my projects are available at [CODELAB](http://codelab.epizy.com/)  
   
 
 <br/>  
