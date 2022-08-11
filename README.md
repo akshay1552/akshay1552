@@ -1,5 +1,5 @@
-<div align="center">
-<img src="https://github.com/akshay1552/akshay1552/blob/main/Akshay%20Banner.gif" align="center" style="width: 100%" />
+<div align="center"> 
+<img src="https://github.com/akshay1552/akshay1552/blob/main/Akshay%20Banner.gif" align="center" style="width: 100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Akshay Kudtarkar</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
