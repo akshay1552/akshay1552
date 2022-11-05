@@ -1,10 +1,10 @@
 <div align="center"> 
 <img src="https://github.com/akshay1552/akshay1552/blob/main/Akshay%20Banner%202.gif" align="center" style="width: 100%"/>
 </div>
-<h1 align="center">Hi 👋, I'm Akshay Kudtarkar</h1>
+<!-- <h1 align="center">Hi 👋, I'm Akshay Kudtarkar</h1> -->
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-- 🌱 I’m currently learning Python   
+<!-- - 🌱 I’m currently learning Python    -->
   
 
 <br/>  
@@ -51,7 +51,10 @@
 </td></tr></table>  
 
 <br/>  
+
 ## Badges
+
+
 [![@akshay1552's Holopin board](https://holopin.me/akshay1552)](https://holopin.io/@akshay1552)
 
 
