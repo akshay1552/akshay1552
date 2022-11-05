@@ -51,6 +51,8 @@
 </td></tr></table>  
 
 <br/>  
+## Badges
+[![@akshay1552's Holopin board](https://holopin.me/akshay1552)](https://holopin.io/@akshay1552)
 
 
 ## Connect with me  
